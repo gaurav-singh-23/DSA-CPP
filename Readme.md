@@ -16,7 +16,7 @@ This repository is a collection of **DSA problems** that I solve and document in
 You can browse through the different folders and files to find solutions to the problems you're interested in. Each folder contains problems of a specific topic, and within each folder, you'll find:
 - Problem description
 - Solution implemented in C++
-- Comments to explain key logic
+- Comments to explain key logics
 
 ### Clone the Repository
 To get a local copy of the repository, run the following commands in your terminal:
