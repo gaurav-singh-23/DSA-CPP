@@ -8,7 +8,7 @@ int main()
                                   /* index {2,4,6,8,1}
                                             0 1 2 3 4    */
 
-    //int arr[];   --> error   
+    //int arr[];   --> error 
     int ar[] = {2, 4, 6, 8, 1}; // jab hum size mention nhi kar rhe hai to ussi wakt elements dene padenge 
 
     // array declaration 2 

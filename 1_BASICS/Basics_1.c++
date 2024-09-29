@@ -8,7 +8,7 @@ int main()
     
     cout<<"singh";
     cout<<endl;                // mostly used
-    cout<<"hello sir";
+    cout<<"hello si";
 
     cout<<"\n";
     cout<<"kolikoli\n";
