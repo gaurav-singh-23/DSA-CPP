@@ -1,0 +1,1 @@
+// copy stack in another stack in same order
